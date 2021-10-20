@@ -1,2 +1,2 @@
 echo hello world
-echo -e "\e[31m this is output"
+echo -e "\e[31mthis is output"
